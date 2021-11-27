@@ -6,7 +6,7 @@
 	"description": "This node.js back-end service",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -16,5 +16,10 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": [ "descriptive", "related", "words", "freecodecamp" ]
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	]
 }
